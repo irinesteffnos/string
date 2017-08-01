@@ -1,4 +1,4 @@
-package com.string;
+package com.str;
 
 public class Replace {
 	public static void main(String args[]){  

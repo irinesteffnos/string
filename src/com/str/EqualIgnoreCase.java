@@ -1,4 +1,4 @@
-package com.string;
+package com.str;
 
 public class EqualIgnoreCase {
 		public static void main(String args[]){  
